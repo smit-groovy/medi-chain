@@ -1,7 +1,8 @@
 streamlit
 langchain
-python-dotenv
 langgraph
+python-dotenv
 requests
 langchain-together
 streamlit-js-eval
+eth-account

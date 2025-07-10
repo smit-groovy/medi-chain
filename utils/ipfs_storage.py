@@ -11,7 +11,7 @@ PINATA_SECRET_KEY = os.getenv("PINATA_SECRET_KEY")
 PINATA_BASE_URL = "https://api.pinata.cloud/"
 PIN_FILE_URL = PINATA_BASE_URL + "pinning/pinFileToIPFS"
 LIST_PINS_URL = PINATA_BASE_URL + "data/pinList"
-GATEWAY_URL = "https://gateway.pinata.cloud/ipfs/"
+GATEWAY_URL = "https://ipfs.io/ipfs/"
 
 HEADERS = {
     "pinata_api_key": PINATA_API_KEY,
