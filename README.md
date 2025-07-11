@@ -145,3 +145,9 @@ _Made with ❤️ to learn Web3 + AI + IPFS integration_
 
 This is a **learning project** and **not for production use**. 
 No sensitive patient data should be stored in unencrypted form.
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
